@@ -1,0 +1,3 @@
+*write up notes
+*tidy up short programs
+*put everything on github
